@@ -1,4 +1,4 @@
-auth-test                OK   26 subtests passed
+auth-test                OK   28 subtests passed
 brotli-decompressor-test OK   3 subtests passed
 cache-test               OK   7 subtests passed
 chunk-io-test            OK   1 subtests passed
@@ -6,7 +6,7 @@ coding-test              OK   11 subtests passed
 connection-test          OK   12 subtests passed
 context-test             OK   1 subtests passed
 continue-test            OK   12 subtests passed
-cookies-test             OK   13 subtests passed
+cookies-test             OK   14 subtests passed
 date-test                OK   66 subtests passed
 forms-test               OK   5 subtests passed
 header-parsing-test      OK   8 subtests passed
@@ -28,7 +28,7 @@ samesite-test            OK   16 subtests passed
 server-auth-test         OK   12 subtests passed
 server-test              OK   18 subtests passed
 session-test             OK   6 subtests passed
-sniffing-test            OK   37 subtests passed
+sniffing-test            OK   38 subtests passed
 ssl-test                 ERROR   exit status 1
 streaming-test           OK   4 subtests passed
 timeout-test             OK   4 subtests passed

@@ -8,8 +8,7 @@
         "library/nghttp2",
         "library/python/gi-docgen-39",
         "library/zlib",
-        "system/library",
-        "system/library/security/gss"
+        "system/library"
     ],
     "fmris": [
         "library/libsoup3"

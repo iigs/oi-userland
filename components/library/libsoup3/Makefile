@@ -19,10 +19,9 @@ USE_DEFAULT_TEST_TRANSFORMS= yes
 include ../../../make-rules/shared-macros.mk
 
 COMPONENT_NAME=		libsoup
-HUMAN_VERSION=		3.6.4
-COMPONENT_REVISION=	1
+HUMAN_VERSION=		3.6.5
 COMPONENT_SUMMARY= Libsoup is an HTTP client/server library for GNOME
-COMPONENT_ARCHIVE_HASH=	sha256:9b54c76f5276b05bebcaf2b6c2a141a188fc7bb1d0624eda259dac13a6665c8a
+COMPONENT_ARCHIVE_HASH=	sha256:6891765aac3e949017945c3eaebd8cc8216df772456dc9f460976fbdb7ada234
 COMPONENT_PROJECT_URL= https://wiki.gnome.org/Projects/libsoup
 COMPONENT_FMRI= library/libsoup3
 COMPONENT_CLASSIFICATION= System/Libraries
@@ -51,4 +50,3 @@ REQUIRED_PACKAGES += library/libpsl
 REQUIRED_PACKAGES += library/nghttp2
 REQUIRED_PACKAGES += library/zlib
 REQUIRED_PACKAGES += system/library
-REQUIRED_PACKAGES += system/library/security/gss
